@@ -2,6 +2,35 @@
 sidebar: auto
 ---
 
+::: warning 正在搞
+[ATA-36-Pneumatic(点击查看)](#ata-36-pneumatic)
+:::
+
+::: danger 还没搞
+ATA-31（一）-Indicating  
+ATA-31（二）-Recording Systems  
+ATA-25-Equipment && Furnishings  
+ATA-24-Electrical Power  
+ATA-26-Fire Protection  
+ATA-32-Landing Gear  
+ATA-35-Oxygen  
+ATA-28-Fuel  
+ATA-33-Lights  
+ATA-21-Air Conditioning  
+ATA-38-Water && Waste  
+ATA-29-Hydraulic Power  
+ATA-30-Ice && Rain Protection  
+ATA-47-Inert Gas System  
+ATA-49-APU  
+ATA-70-Power Plant(CFM56)  
+ATA-51-Structure  
+ATA-52-Doors  
+ATA-22-Auto Flight  
+ATA-27-Flight Controls  
+ATA-23-Communications  
+ATA-34-Navigation  
+ATA-46-Information Systems
+:::
 # A320FM
 
 A320FM系列主要有A318、A319、A320和A321几个型号，还有新出的改进型A320neo以及一些公务机型号，
